@@ -25,9 +25,9 @@ export async function POST(request) {
 
     const response = {
       is_success: true,
-      user_id: "john_doe_17091999", // Replace with actual user_id logic
-      email: "john@xyz.com", // Replace with actual email
-      roll_number: "ABCD123", // Replace with actual roll number
+      user_id: "aditya_raj_singh_02012004", // Replace with actual user_id logic
+      email: "as8422@srmist.edu.in", // Replace with actual email
+      roll_number: "RA2111026030162", // Replace with actual roll number
       numbers,
       alphabets,
       highest_lowercase_alphabet: highestLowercaseAlphabet ? [highestLowercaseAlphabet] : [],
